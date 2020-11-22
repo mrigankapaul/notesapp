@@ -1,0 +1,7 @@
+npm init
+package.json is used to manage all the depencies which the application uses.
+node-module directory has all the packages that has been installed.
+npm install validator
+npm install
+npm install chalk@2.4.1
+npm install nodemon@@2.0.6 -g
